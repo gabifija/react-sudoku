@@ -9,7 +9,7 @@ export const Container = styled.div`
     flex-grow: 1;
     flex-shrink: 0;
     flex-basis: 0;
-    font-size: 20px
+    font-size: 20px;
     font-weight: bold;
     height: auto;
     justify-content: center;
